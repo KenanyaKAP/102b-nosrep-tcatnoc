@@ -1,6 +1,6 @@
 # 102b-nosrep-tcatnoc
 
-Berikut adalah simple machine learning introduction di C++ buat dapetin no WA ku. Mari kita belajar cara membuat model AI secara sederhana, asik untuk percobaan.
+Ayo kita coba buat ChatGPT sendiri!. Program ini adalah generative machine learning introduction di C++ buat dapetin no WA ku. Mari kita belajar cara membuat model AI secara sederhana, asik untuk percobaan. Model akan mempelajari tulisan tangan kalian dan akan menulis no WA ku dengan tulisan tangan kalian!
 
 ## Persyaratan
 - Sudah terinstall MinGW di laptop, bisa di cek dengan mengetikkan `g++ --version` di terminal / cmd. Jika menampilkan hasil seperti dibawah, maka sudah bisa menjalankan program
