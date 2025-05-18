@@ -1,2 +1,2 @@
-g++ -O2 -I./eigen -I./include -I./tools -I./stb train.cpp -o train
+g++ -O2 -I./eigen-3.4.0 -I./eigen-3.4.0/eigen-3.4.0 -I./include -I./tools -I./stb train.cpp -o train
 train.exe
