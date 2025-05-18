@@ -2,6 +2,14 @@
 
 Ayo kita coba buat ChatGPT sendiri!. Program ini adalah generative machine learning introduction di C++ buat dapetin no WA ku. Mari kita belajar cara membuat model AI secara sederhana, asik untuk percobaan. Model akan mempelajari tulisan tangan kalian dan akan menulis no WA ku dengan tulisan tangan kalian!
 
+## Buat yang Error!!!!!
+- Clone / download ulang project github ini
+- Extract `eigen-3.4.0.zip` ke dalam folder ini
+- ![Tut 9](readmeimage/tut9.png)
+- Maka akan muncul folder ini
+- ![Tut 10](readmeimage/tut10.png)
+- Selamat training!
+
 ## Persyaratan
 - Sudah terinstall MinGW di laptop, bisa di cek dengan mengetikkan `g++ --version` di terminal / cmd. Jika menampilkan hasil seperti dibawah, maka sudah bisa menjalankan program
 - ![GCC Version](readmeimage/gcc.png)
