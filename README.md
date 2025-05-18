@@ -4,6 +4,7 @@ Ayo kita coba buat ChatGPT sendiri!. Program ini adalah generative machine learn
 
 ## Buat yang Error!!!!!
 - Clone / download ulang project github ini
+- Terdapat file bernama `eigen-3.4.0.zip`, sudah tersedia di sini
 - Extract `eigen-3.4.0.zip` ke dalam folder ini
 - ![Tut 9](readmeimage/tut9.png)
 - Maka akan muncul folder ini
